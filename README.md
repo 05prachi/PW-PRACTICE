@@ -7,6 +7,7 @@ This repository contains JavaScript practice examples organized by chapter and t
 - `chapter_01_basics/` - Basic JavaScript examples and setup verification.
 - `chapter_02_Javascript_concepts/` - JavaScript concepts, identifiers, and naming conventions.
 - `chapter_03_Identifier_Literals/` - Identifier rules, literals, comments, and related examples.
+- `chapter_04_Javascript_concepts/` - Variable declarations (var, let, const), functions, and hoisting.
 - `vs_code_shortcut.md` - Common Visual Studio Code shortcuts in table format.
 
 ## How to Run
@@ -28,6 +29,9 @@ node chapter_03_Identifier_Literals/08_Comments.js
 - `chapter_01_basics/04_JS_Hotcode.js` - Hot code reload example.
 - `chapter_02_Javascript_concepts/07_Identifier_Part2.js` - Naming convention examples.
 - `chapter_03_Identifier_Literals/08_Comments.js` - JavaScript comment examples.
+- `chapter_04_Javascript_concepts/09_var_let_const.js` - Variable declarations comparison.
+- `chapter_04_Javascript_concepts/12_let_people_love.js` - let keyword scope example.
+- `chapter_04_Javascript_concepts/17_hoisting_fun.js` - Hoisting behavior examples.
 - `vs_code_shortcut.md` - VS Code shortcut reference.
 
 ## Notes
