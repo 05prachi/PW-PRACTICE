@@ -97,3 +97,24 @@ Error handling: try, catch, finally, throw
 Modules: import, export, default
 Async / iterators: async, await, yield
 Others: this, typeof, instanceof, delete, void, in, of, with
+
+## Chapter 06 — Operators
+
+- `chapter_06_Operator/` — New chapter added (fetched from upstream GitHub). Files included:
+	- `30_Operator.js`
+	- `31_Arithmetic_OP.js`
+	- `32_Modulus_OP.js`
+	- `33_Expo_OP.js`
+	- `34_IQ.js`
+	- `35_Comparsion_OP.js`
+	- `36_Comparsion_Strict_loose.js`
+	- `37_IQ_Loose_Strict.js`
+	- `38_Confusing_Comparsion.js`
+	- `39_Logical_Op.js`
+	- `40_String_Con_Op.js`
+	- `41_Ternary_Op.js` (empty upstream — placeholder)
+	- `42_Type_Op.js` (empty upstream — placeholder)
+	- `43_Incre_Decre_Op.js` (empty upstream — placeholder)
+	- `44_Null_Op.js`
+
+You can run examples with `node chapter_06_Operator/<file>.js` from the project root.
